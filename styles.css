@@ -1,0 +1,21 @@
+.title {
+    font-family: arial, helvetica, sans-serif;
+    font-weight: bold;
+    color:brown
+}
+li {
+    font-family: arial;
+    color: black;
+}
+.image {
+    width: 300px;
+    height: auto;
+}
+h2 {
+    font-size: bold;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div {
+    font-family: arial;
+}
